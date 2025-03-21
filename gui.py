@@ -26,9 +26,13 @@ def clean_and_display(file_path):
         updated_category_count, unaffected_category_count, updated_categories, unaffected_categories
     ) = clean_data(file_path)
 
+    # Identify new entries (items not in item_mapping_dict)
+    all_items = set(updated_items).union(unaffected_items)
+    new_entries = sorted([item for item in all_items if item not in item_mapping_dict])
+    
     # covert sets to sorted lists
     updated_items_list = sorted(updated_items)
-    unaffected_items_list = sorted(unaffected_items)
+    unaffected_items_list = sorted(str(item) for item in unaffected_items)
     updated_categories_list = sorted(updated_categories)
     unaffected_categories_list = sorted(unaffected_categories)
 
@@ -51,7 +55,10 @@ def clean_and_display(file_path):
     text_area.insert(tk.END, "\n".join(updated_items_list) + "\n\n")
     
     text_area.insert(tk.END, f"Unaffected Items ({unaffected_item_count}):\n", "bold")
-    text_area.insert(tk.END, "\n".join(unaffected_items_list))
+    text_area.insert(tk.END, "\n".join(unaffected_items_list) + "\n\n")
+    
+    text_area.insert(tk.END, f"New Entries ({len(new_entries)}):\n", "bold")
+    text_area.insert(tk.END, "\n".join(new_entries))
 
     # Disable editing of text area
     text_area.config(state=tk.DISABLED)
@@ -67,7 +74,6 @@ def clean_and_display(file_path):
     category_text_area = scrolledtext.ScrolledText(category_window, wrap=tk.WORD, width=80, height=15)
     category_text_area.pack(padx=10, pady=5, fill=tk.BOTH, expand=True)
     category_text_area.tag_configure("bold", font=("Arial", 10, "bold"))
-
 
     category_text_area.insert(tk.END, f"Updated Categories ({updated_category_count}):\n", "bold")
     category_text_area.insert(tk.END, "\n".join(updated_categories_list) + "\n\n")

@@ -1,0 +1,145 @@
+﻿Category,Item,Option, Quantity , Price Per Unit , Profit 
+SERVICES,OBGYN Consult,N/A, 703.00 ," 421,158.00 "," 421,158.00 "
+SERVICES,PEDIA Consult,N/A, 659.00 ," 395,186.00 "," 395,186.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Transvaginal, 185.00 ," 220,877.71 "," 220,877.71 "
+VACCINES,ROTATEQ,N/A, 55.00 ," 137,125.00 "," 137,125.00 "
+VACCINES,"6 IN 1 ""Hexaxim""",N/A, 32.00 ," 128,000.00 "," 128,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Congenital Anomaly Scan, 46.00 ," 115,000.00 "," 115,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,BPS + Biometry, 85.00 ," 110,500.00 "," 110,500.00 "
+VACCINES,FLU VACCINE,N/A, 48.00 ," 96,000.00 "," 96,000.00 "
+VACCINES,"PCV ""Pneumococcal""",N/A, 18.00 ," 72,000.00 "," 72,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Pelvic, 51.00 ," 61,200.00 "," 61,200.00 "
+OTHERS,NST,N/A, 46.00 ," 46,000.00 "," 46,000.00 "
+MEDS,MEDICINE,Heragest, 682.00 ," 44,330.00 "," 44,330.00 "
+VACCINES,Vaxneuvance (PCV 15),N/A, 8.00 ," 40,000.00 "," 40,000.00 "
+MED CERT,Medical Certificate,N/A, 72.00 ," 36,000.00 "," 36,000.00 "
+VACCINES,TD,N/A, 29.00 ," 24,940.00 "," 24,940.00 "
+VACCINES,JAP ENCEPH,N/A, 6.00 ," 24,000.00 "," 24,000.00 "
+VACCINES,ROTARIX,N/A, 7.00 ," 21,000.00 "," 21,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Biometry, 17.00 ," 20,400.00 "," 20,400.00 "
+VACCINES,MMRV,N/A, 3.00 ," 19,500.00 "," 19,500.00 "
+VACCINES,TT,N/A, 37.00 ," 18,500.00 "," 18,500.00 "
+SERVICES,Laser Circumcision,N/A, 4.00 ," 18,000.00 "," 18,000.00 "
+MED CERT,SWAB,N/A, 15.00 ," 18,000.00 "," 18,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,5D ULTRASOUND, 6.00 ," 18,000.00 "," 18,000.00 "
+SERVICES,Endocrinologist Consult,N/A, 23.00 ," 17,971.00 "," 17,971.00 "
+MEDS,MEDICINE,Evening Primrose (PRIMAVIX), 505.00 ," 17,675.00 "," 17,675.00 "
+MEDS,MEDICINE,Multivitamins (Mosvit Elite), 947.00 ," 17,046.00 "," 17,046.00 "
+LABS,MICROBIOLOGY,Papsmear, 20.00 ," 16,000.00 "," 16,000.00 "
+LABS,CLINICAL CHEMISTRY,75 Gram OGTT, 13.00 ," 15,600.00 "," 15,600.00 "
+UTZ,GENERAL ULTRASOUND,Breast - Chest Ultrasound (Bilateral), 9.00 ," 15,300.00 "," 15,300.00 "
+LABS,PACKAGES,Thyroid Function Test, 8.00 ," 14,400.00 "," 14,400.00 "
+SERVICES,REI,N/A, 17.00 ," 13,600.00 "," 13,600.00 "
+LABS,OTHERS,AMH, 1.00 ," 13,000.00 "," 13,000.00 "
+MEDS,MEDICINE,Calcium Carbonate + D3 (Calcidin)," 1,071.00 "," 12,852.00 "," 12,852.00 "
+VACCINES,MMR,N/A, 5.00 ," 12,500.00 "," 12,500.00 "
+SERVICES,Surgery Consult,N/A, 19.00 ," 11,400.00 "," 11,400.00 "
+VACCINES,VARICELLA,N/A, 3.00 ," 10,500.00 "," 10,500.00 "
+MEDS,FAMILY PLANNING,DMPA (Depotrust), 21.00 ," 10,500.00 "," 10,500.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,TVS w Follicle Monitoring, 6.00 ," 10,200.00 "," 10,200.00 "
+LABS,HEMATOLOGY,Complete Blood Count (CBC), 24.00 ," 9,600.00 "," 9,600.00 "
+Surgeon,Surgery Procedure (4500),N/A, 2.00 ," 9,000.00 "," 9,000.00 "
+LABS,PACKAGES,Buntis Package A, 5.00 ," 8,500.00 "," 8,500.00 "
+MEDS,MEDICINE,Heme Up, 423.00 ," 8,460.00 "," 8,460.00 "
+VACCINES,MENINGO,N/A, 2.00 ," 8,000.00 "," 8,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,3D-4D Ultrasound, 3.00 ," 7,500.00 "," 7,500.00 "
+UTZ,GENERAL ULTRASOUND,Scrotal Ultrasound (with Doppler), 4.00 ," 6,800.00 "," 6,800.00 "
+LABS,CLINICAL CHEMISTRY,HIV Screening, 10.00 ," 6,500.00 "," 6,500.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Transrectal, 5.00 ," 6,000.00 "," 6,000.00 "
+SERVICES,Ear Piercing,N/A, 6.00 ," 6,000.00 "," 6,000.00 "
+MEDS,MEDICINE,Vitamin C + Zinc (Pearly-C), 451.00 ," 5,412.00 "," 5,412.00 "
+SERVICES,Urologist Consult,N/A, 7.00 ," 5,300.00 "," 5,300.00 "
+UTZ,GENERAL ULTRASOUND,Whole Abdomen, 3.00 ," 5,100.00 "," 5,100.00 "
+MEDS,MEDICINE,Folic Acid (Quatrofol), 334.00 ," 5,010.00 "," 5,010.00 "
+LABS,PACKAGES,Buntis Package B, 2.00 ," 5,000.00 "," 5,000.00 "
+LABS,CLINICAL MICROSCOPY,Urinalysis, 23.00 ," 4,600.00 "," 4,600.00 "
+VACCINES,PPD,N/A, 6.00 ," 4,500.00 "," 4,500.00 "
+SERVICES,Cardio,N/A, 6.00 ," 4,371.00 "," 4,371.00 "
+UTZ,GENERAL ULTRASOUND,Kidneys Ureters and Bladder (KUB), 3.00 ," 4,200.00 "," 4,200.00 "
+MEDS,MEDICINE,Ferrous + Folic Acid (Prenat), 346.00 ," 4,152.00 "," 4,152.00 "
+MEDS,FAMILY PLANNING,IMPLANT (INSERTION), 1.00 ," 4,000.00 "," 4,000.00 "
+MEDS,MEDICINE,Cholecalciferol + Calcium (Calvit Gold), 260.00 ," 3,900.00 "," 3,900.00 "
+LABS,HEMATOLOGY,Platelet Count (PC), 15.00 ," 3,750.00 "," 3,750.00 "
+MEDS,MEDICINE,Mupirocin Ointment (Mupiderm), 15.00 ," 3,750.00 "," 3,750.00 "
+MEDS,MEDICINE,Isoxuprine (Isoxilan), 123.00 ," 3,690.00 "," 3,690.00 "
+MEDS,MEDICINE,Medroxyprogesterone (DB-10), 45.00 ," 3,600.00 "," 3,600.00 "
+MEDS,MEDICINE,Clindamycin (Vagilin), 21.00 ," 3,570.00 "," 3,570.00 "
+MEDS,MEDICINE,Letrozole, 21.00 ," 3,150.00 "," 3,150.00 "
+LABS,CLINICAL CHEMISTRY,HBsAg Screening, 7.00 ," 3,150.00 "," 3,150.00 "
+LABS,CLINICAL CHEMISTRY,VDRL-RPR, 7.00 ," 3,150.00 "," 3,150.00 "
+LABS,PACKAGES,Lipid Profile, 3.00 ," 3,000.00 "," 3,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Cervical Length, 4.00 ," 2,800.00 "," 2,800.00 "
+LABS,OTHERS,Quantitative Beta-Hcg, 2.00 ," 2,600.00 "," 2,600.00 "
+LABS,CLINICAL CHEMISTRY,TSH, 4.00 ," 2,600.00 "," 2,600.00 "
+MEDS,MEDICINE,Cefurox, 73.00 ," 2,555.00 "," 2,555.00 "
+SERVICES,Regular Circumcision,N/A, 1.00 ," 2,500.00 "," 2,500.00 "
+Surgeon,Surgery Procedure (2500),N/A, 1.00 ," 2,500.00 "," 2,500.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Biometry + OB Doppler, 1.00 ," 2,500.00 "," 2,500.00 "
+LABS,OTHERS,Wet Smear, 4.00 ," 2,400.00 "," 2,400.00 "
+LABS,HEMATOLOGY,ABO RH Typing, 8.00 ," 2,400.00 "," 2,400.00 "
+MEDS,OTHERS,Pregnancy Test, 19.00 ," 2,280.00 "," 2,280.00 "
+SERVICES,IM,N/A, 3.00 ," 2,114.00 "," 2,114.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,Placental Doppler, 2.00 ," 2,000.00 "," 2,000.00 "
+UTZ,OBSTETRICS and GYNECOLOGY,BPS + Biometry w- Cervical Length, 1.00 ," 2,000.00 "," 2,000.00 "
+UTZ,GENERAL ULTRASOUND,Inguinoscrotal Ultrasound (with doppler), 1.00 ," 1,900.00 "," 1,900.00 "
+MEDS,MEDICINE,Gestron, 28.00 ," 1,820.00 "," 1,820.00 "
+MEDS,FAMILY PLANNING,FAYE, 3.00 ," 1,800.00 "," 1,800.00 "
+MEDS,MEDICINE,Clindamycin Phosphate (Vagclr-M), 7.00 ," 1,750.00 "," 1,750.00 "
+LABS,MICROBIOLOGY,Urine C-S, 2.00 ," 1,600.00 "," 1,600.00 "
+MEDS,MEDICINE,Clomifene Citrate (Ova-mit), 15.00 ," 1,500.00 "," 1,500.00 "
+Surgeon,Surgery Procedure (1500),N/A, 1.00 ," 1,500.00 "," 1,500.00 "
+UTZ,GENERAL ULTRASOUND,Thyroid Ultrasound, 1.00 ," 1,400.00 "," 1,400.00 "
+UTZ,GENERAL ULTRASOUND,Hepatobiliary Tree (Liver Spleen Bile Ducts Gallbl, 1.00 ," 1,400.00 "," 1,400.00 "
+UTZ,GENERAL ULTRASOUND,Neck Ultrasound (Thyroid Submandibular and Lymph N, 1.00 ," 1,396.00 "," 1,396.00 "
+UTZ,GENERAL ULTRASOUND,Upper Abdomen (HBT plus Spleen and Abdominal Aorta, 1.00 ," 1,396.00 "," 1,396.00 "
+LABS,CLINICAL CHEMISTRY,FBS, 2.00 ," 1,300.00 "," 1,300.00 "
+MEDS,OTHERS,Feminine Wash (Femcare), 5.00 ," 1,250.00 "," 1,250.00 "
+OTHERS,Catheter Change,N/A, 1.00 ," 1,232.00 "," 1,232.00 "
+LABS,MICROBIOLOGY,Gram Stain, 2.00 ," 1,200.00 "," 1,200.00 "
+LABS,OTHERS,75 Gram OGTT, 1.00 ," 1,200.00 "," 1,200.00 "
+MEDS,FAMILY PLANNING,ALTHEA, 2.00 ," 1,200.00 "," 1,200.00 "
+MEDS,MEDICINE,Folic Acid (Folitrene), 80.00 ," 1,200.00 "," 1,200.00 "
+LABS,OTHERS,HbA1c, 2.00 ," 1,100.00 "," 1,100.00 "
+MEDS,MEDICINE,Azithromycin (Azithrovin), 12.00 ," 1,020.00 "," 1,020.00 "
+MEDS,MEDICINE,Evening Primrose (Primdin), 27.00 , 945.00 , 945.00 
+MEDS,MEDICINE,Metindaz, 7.00 , 910.00 , 910.00 
+MEDS,MEDICINE,Mommalac, 58.00 , 870.00 , 870.00 
+MEDS,OTHERS,Tuli After Care Package, 1.00 , 850.00 , 850.00 
+MEDS,MEDICINE,Methylergometrine (Ergojen), 30.00 , 750.00 , 750.00 
+LABS,CLINICAL CHEMISTRY,SGOT, 3.00 , 750.00 , 750.00 
+LABS,CLINICAL CHEMISTRY,SGPT, 3.00 , 750.00 , 750.00 
+OTHERS,Admin Fee,N/A, 3.00 , 750.00 , 750.00 
+UTZ,OBSTETRICS and GYNECOLOGY,Placental Localization, 1.00 , 700.00 , 700.00 
+UTZ,OBSTETRICS and GYNECOLOGY,CERVICAL LENGTH, 1.00 , 700.00 , 700.00 
+Pedia Medicines,Coamoxiclav 457 5mg,N/A, 2.00 , 700.00 , 700.00 
+LABS,CLINICAL CHEMISTRY,FT4, 1.00 , 650.00 , 650.00 
+MEDS,MEDICINE,Momalac, 43.00 , 645.00 , 645.00 
+LABS,CLINICAL CHEMISTRY,HbA1c, 1.00 , 550.00 , 550.00 
+MED CERT,MEDICAL ABSTRACT,N/A, 1.00 , 500.00 , 500.00 
+Pedia Medicines,Cetirizine (Temprazine),N/A, 2.00 , 500.00 , 500.00 
+Pedia Medicines,Azithromycin (Azythrex),N/A, 1.00 , 500.00 , 500.00 
+LABS,HEMATOLOGY,APTT, 1.00 , 500.00 , 500.00 
+LABS,HEMATOLOGY,PROTIME (PT), 1.00 , 500.00 , 500.00 
+Pedia Medicines,Salinase Spray,N/A, 2.00 , 500.00 , 500.00 
+MEDS,MEDICINE,Cefuroxime Axetil (Aerox), 14.00 , 490.00 , 490.00 
+Pedia Medicines,Ambroxol Hydrochloride (Cofzol),N/A, 3.00 , 450.00 , 450.00 
+Pedia Medicines,Simeticone (Restime),N/A, 2.00 , 400.00 , 400.00 
+Pedia Medicines,Co-amoxiclav (Natravox),N/A, 1.00 , 350.00 , 350.00 
+Pedia Medicines,Mebendazole,N/A, 2.00 , 350.00 , 350.00 
+MEDS,MEDICINE,Procaterol Hydrochloride (Brezu), 1.00 , 350.00 , 350.00 
+MEDS,OTHERS,Drysheet - Underpad, 7.00 , 350.00 , 350.00 
+Pedia Medicines,Nasatapp Drops,N/A, 2.00 , 300.00 , 300.00 
+SERVICES,Clinic Fee,N/A, 2.00 , 300.00 , 300.00 
+LABS,CLINICAL CHEMISTRY,Creatinine, 1.00 , 300.00 , 300.00 
+LABS,CLINICAL CHEMISTRY,Blood Urea Nitrogen (BUN), 1.00 , 300.00 , 300.00 
+Pedia Medicines,Appebon,N/A, 1.00 , 200.00 , 200.00 
+MEDS,MEDICINE,Nausecare, 10.00 , 150.00 , 150.00 
+Pedia Medicines,Nasatapp Syrup,N/A, 1.00 , 150.00 , 150.00 
+MED CERT,CTC - utz,N/A, 3.00 , 150.00 , 150.00 
+Pedia Medicines,Zinc Oxide +Calamine (Calmoseptine),N/A, 2.00 , 100.00 , 100.00 
+Pedia Medicines,Paracetamol Drops (Tempra),N/A, 1.00 , 100.00 , 100.00 
+MEDS,OTHERS,Wee bag, 4.00 , 60.00 , 60.00 
+MEDS,OTHERS,Urine Container, 6.00 , 60.00 , 60.00 
+MEDS,MEDICINE,Methyldopa, 2.00 , 50.00 , 50.00 
+UTZ,OBSTETRICS and GYNECOLOGY,Doppler,0,0,0
+VACCINES,HEPA B IG,N/A,0,0,0

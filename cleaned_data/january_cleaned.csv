@@ -1,5 +1,5 @@
 Category,Item,Option,Quantity,Price Per Unit,Total Profit
-Services,Obstetrics and Gynecology Consultation,N/A,665.00,598.20,"397,800.00"
+Services,Obstetrics and Gynecology,N/A,665.00,598.20,"397,800.00"
 Services,Pediatrics Consultation,N/A,535.00,597.69,"319,765.10"
 Ultrasound,Obstetrics and Gynecology,Transvaginal,218.00,"1,197.25","261,000.00"
 Vaccines,PCV Vaccine,N/A,40.00,"3,972.07","158,882.88"
@@ -18,11 +18,11 @@ Services,REI,N/A,40.00,800.00,"32,000.00"
 Vaccines,MMR Vaccine,N/A,11.00,"2,500.00","27,500.00"
 Medical Certificate,Swab Test,N/A,22.00,"1,190.27","26,186.00"
 Ultrasound,Obstetrics and Gynecology,5D ULTRASOUND,8.00,"3,000.00","24,000.00"
-Medicines,Medicine,Calcium (Calsure Boncare),1998.00,12.00,"23,976.00"
+Medicines,Medicine,Calcium (Calsure Boncare),"1,998.00",12.00,"23,976.00"
 Ultrasound,Obstetrics and Gynecology,Biometry,20.00,"1,188.00","23,760.00"
 Vaccines,Meningococcal Vaccine,N/A,6.00,"3,881.00","23,286.00"
 Laboratory,Clinical Chemistry,75 Gram OGTT,19.00,"1,200.00","22,800.00"
-Medicines,Medicine,Multivitamins (Obtrene),1854.00,12.00,"22,248.00"
+Medicines,Medicine,Multivitamins (Obtrene),"1,854.00",12.00,"22,248.00"
 Surgeon,Surgery Procedure (10500),N/A,2.00,"10,500.00","21,000.00"
 Vaccines,TD Vaccine,N/A,24.00,860.00,"20,640.00"
 Vaccines,Japanese Encephalitis Vaccine,N/A,5.00,"4,000.00","20,000.00"
@@ -90,7 +90,7 @@ Services,Regular Circumcision,N/A,1.00,"2,500.00","2,500.00"
 Surgeon,Surgery Procedure (3500),N/A,1.00,"2,500.00","2,500.00"
 Ultrasound,Obstetrics and Gynecology,CERVICAL LENGTH,3.00,700.00,"2,100.00"
 Laboratory,Clinical Chemistry,Creatinine,7.00,284.57,"1,992.00"
-Others,Admin Fee,N/A,8.00,243.75,"1,950.00"
+Others,Administration Fee,N/A,8.00,243.75,"1,950.00"
 Medicines,Medicine,Trufit,77.00,25.00,"1,925.00"
 Medicines,Medicine,Folic Acid (Folitrene),121.00,15.00,"1,815.00"
 Medicines,Miscellaneous,Pregnancy Test,15.00,120.00,"1,800.00"
@@ -118,13 +118,13 @@ Laboratory,Clinical Chemistry,Lipid Profile,1.00,"1,000.00","1,000.00"
 Vaccines,Oral Polio Vaccine (OPV),N/A,1.00,"1,000.00","1,000.00"
 Vaccines,Inactivated Polio Vaccine (IPV),N/A,1.00,"1,000.00","1,000.00"
 Medicines,Medicine,Heragest,14.00,65.00,910.00
-Pediatric Medicines,Cetirizine Drops Allerkid Drops,N/A,5.00,180.00,900.00
+Pediatric Medicines,Cetirizine (Allerkid Drops),N/A,5.00,180.00,900.00
 Pediatric Medicines,Nasatapp Drops,N/A,6.00,130.00,780.00
 Laboratory,Miscellaneous,Prolactin,1.00,700.00,700.00
 Laboratory,Clinical Chemistry,TSH,1.00,650.00,650.00
 Laboratory,Miscellaneous,KOH,1.00,600.00,600.00
 Laboratory,Clinical Microbiology,Gram Stain,1.00,600.00,600.00
-Pediatric Medicines,Cetirizine Syrup Allerkid Syrup,N/A,2.00,300.00,600.00
+Pediatric Medicines,Cetirizine (Allerkid Syrup),N/A,2.00,300.00,600.00
 Medicines,Miscellaneous,Feminine Wash (Femcare),3.00,200.00,600.00
 Laboratory,Clinical Chemistry,Anti HCV,1.00,550.00,550.00
 Medicines,Miscellaneous,Drysheet - Underpad,11.00,50.00,550.00
@@ -139,7 +139,7 @@ Laboratory,Clinical Chemistry,Anti HBc (IgG),1.00,450.00,450.00
 Medicines,Medicine,Momalac,30.00,15.00,450.00
 Others,Catheter Removal Fee,N/A,1.00,300.00,300.00
 Laboratory,Miscellaneous,Serum Preg Test,1.00,300.00,300.00
-Services,Clinic Fee,N/A,2.00,141.67,283.33
+Services,Clinical Fee,N/A,2.00,141.67,283.33
 Pediatric Medicines,Nasatapp Syrup,N/A,2.00,130.00,260.00
 Laboratory,Clinical Microscopy,Fecalysis,1.00,250.00,250.00
 Pediatric Medicines,Ceelin Drops 30ml,N/A,1.00,170.00,170.00

@@ -1,0 +1,148 @@
+Category,Item,Option,Quantity,Piece Per Unit,Total Profit
+Services,Obstetrics and Gynecology Consultation,N/A,728,597.53,435000.0
+Services,Pediatrics Consultation,N/A,552,600.0,331200.0
+Ultrasound,Obstetrics and Gynecology Consultation,Transvaginal,164,1190.07,195172.0
+Services,Laser Circumcision,N/A,43,4360.47,187500.0
+Ultrasound,Obstetrics and Gynecology Consultation,Congenital Anomaly Scan,57,2500.0,142500.0
+Vaccines,Flu Vaccine,N/A,68,1992.65,135500.0
+Vaccines,"PCV ""Pneumoccoccal"" Vaccine",N/A,32,4000.0,128000.0
+Vaccines,Rotateq Vaccine,N/A,47,2500.0,117500.0
+Ultrasound,Obstetrics and Gynecology Consultation,BPS + Biometry,85,1291.15,109748.0
+Vaccines,"6 IN 1 ""Hexaxim"" Vaccine",N/A,27,4000.0,108000.0
+Services,Regular Circumcision,N/A,35,2487.26,87054.0
+Ultrasound,Obstetrics and Gynecology Consultation,Pelvic,55,1200.0,66000.0
+Others,Non-Stress Test,N/A,35,1000.0,35000.0
+Surgeon,Surgery Procedure (2500),N/A,13,2500.0,32500.0
+Medical Certificate,Medical Certificate,N/A,63,500.0,31500.0
+Vaccines,Rotarix Vaccine,N/A,10,3000.0,30000.0
+Laboratory,Medical Packages,Buntis Package B,12,2500.0,30000.0
+Medical Certificate,Swab Test,N/A,24,1200.0,28800.0
+Surgeon,Surgery Procedure (9500),N/A,3,9500.0,28500.0
+Ultrasound,General Ultrasound,Breast - Chest Ultrasound (Bilateral),16,1700.0,27200.0
+Surgeon,Surgery Procedure (4500),N/A,6,4500.0,27000.0
+Laboratory,Clinical Microbiology,Papsmear,33,800.0,26400.0
+Services,REI,N/A,32,791.06,25314.0
+Laboratory,Medical Packages,Thyroid Function Test,14,1800.0,25200.0
+Ultrasound,Obstetrics and Gynecology Consultation,5D ULTRASOUND,8,3000.0,24000.0
+Laboratory,Clinical Chemistry,75 Gram OGTT,20,1189.3,23786.0
+Vaccines,TD Vaccine,N/A,27,822.44,22206.0
+Vaccines,MMR Vaccine,N/A,8,2500.0,20000.0
+Vaccines,MMRV Vaccine,N/A,3,6500.0,19500.0
+Medicines,Medicine,Cholecalciferol + Calcium (Calvit Gold),1276,15.0,19140.0
+Services,Endocrinologist Consultation,N/A,24,794.04,19057.0
+Vaccines,Tetanus Toxoid Vaccine,N/A,36,500.0,18000.0
+Medicines,Medicine,Heragest,269,65.0,17485.0
+Ultrasound,Obstetrics and Gynecology Consultation,Biometry,14,1184.71,16586.0
+Vaccines,Japanese Encephalitis Vaccine,N/A,4,4000.0,16000.0
+Medicines,Miscellaneous,Tuli After Care Package,18,850.0,15300.0
+Services,Surgery Consultation,N/A,26,580.77,15100.0
+Vaccines,Varicella Vaccine,N/A,4,3500.0,14000.0
+Medicines,Medicine,Multivitamins (Mosvit Elite),720,18.0,12960.0
+Ultrasound,General Ultrasound,Whole Abdomen,8,1517.75,12142.0
+Services,Urology Consultation,N/A,15,790.47,11857.0
+Medicines,Family Planning,DMPA (Depotrust),21,500.0,10500.0
+Vaccines,Hepatitis A Vaccine,N/A,4,2500.0,10000.0
+Laboratory,Clinical Chemistry,HIV Screening,15,650.0,9750.0
+Medicines,Medicine,Ferrous + Folic Acid (Prenat),757,12.0,9084.0
+Services,Cardiology Consultation,N/A,13,683.46,8885.0
+Vaccines,Meningococcal Vaccine,N/A,2,4000.0,8000.0
+Medicines,Medicine,Evening Primrose (PRIMAVIX),226,35.0,7910.0
+Laboratory,Hematology,Complete Blood Count (CBC),19,400.0,7600.0
+Surgeon,Surgery Procedure (7500),N/A,1,7500.0,7500.0
+Medicines,Medicine,Metindaz,56,124.2,6955.0
+Laboratory,Clinical Microscopy,Urinalysis,33,200.0,6600.0
+Laboratory,Medical Packages,Blood Chemistry (Hypertension),2,3200.0,6400.0
+Laboratory,Clinical Microbiology,Urine C-S,7,800.0,5600.0
+Medicines,Medicine,Folic Acid (Quatrofol),368,15.0,5520.0
+Surgeon,Surgery Procedure (5500),N/A,1,5500.0,5500.0
+Others,Catheter Change,N/A,4,1366.0,5464.0
+Medicines,Medicine,Gestron,84,65.0,5460.0
+Medicines,Medicine,Clindamycin Phosphate (Vagclr-M),21,250.0,5250.0
+Ultrasound,Obstetrics and Gynecology Consultation,TVS w Follicle Monitoring,3,1700.0,5100.0
+Ultrasound,Obstetrics and Gynecology Consultation,3D-4D Ultrasound,2,2500.0,5000.0
+Ultrasound,Obstetrics and Gynecology Consultation,Transrectal,4,1200.0,4800.0
+Ultrasound,Obstetrics and Gynecology Consultation,CERVICAL LENGTH,7,682.14,4775.0
+Medicines,Medicine,Isoxsuprine Hcl (Duvaprine),176,25.0,4400.0
+Medicines,Miscellaneous,DERMLIN,2,2000.0,4000.0
+Ultrasound,Obstetrics and Gynecology Consultation,BPS + Biometry w- Cervical Length,2,2000.0,4000.0
+Laboratory,Medical Packages,Lipid Profile,4,1000.0,4000.0
+Medicines,Medicine,Evening Primrose (Primdin),101,35.0,3535.0
+Ultrasound,Obstetrics and Gynecology Consultation,Cervical Length,5,700.0,3500.0
+Laboratory,Miscellaneous,HbA1c,6,550.0,3300.0
+Laboratory,Clinical Chemistry,FBS,5,650.0,3250.0
+Medicines,Medicine,Mommalac,224,14.28,3199.0
+Medicines,Medicine,Dydrogesterone (Duphaston),37,85.0,3145.0
+Vaccines,Typhoid Vaccine,N/A,1,3000.0,3000.0
+Laboratory,Clinical Chemistry,HBsAg Screening,6,450.0,2700.0
+Laboratory,Clinical Chemistry,VDRL-RPR,6,450.0,2700.0
+Ultrasound,General Ultrasound,Kidneys Ureters and Bladder (KUB),2,1275.0,2550.0
+Ultrasound,Obstetrics and Gynecology Consultation,Fetal - Maternal Doppler Velocimetry,1,2500.0,2500.0
+Services,Intramuscular Injection,N/A,3,800.0,2400.0
+Laboratory,Hematology,ABO RH Typing,8,300.0,2400.0
+Services,Intrauterine Device Removal,N/A,1,2300.0,2300.0
+Ultrasound,General Ultrasound,Cranial Ultrasound (Pedia),1,2200.0,2200.0
+Laboratory,Clinical Chemistry,Creatinine,7,300.0,2100.0
+Medicines,Medicine,Methylergometrine (Ergojen),84,25.0,2100.0
+Ultrasound,Obstetrics and Gynecology Consultation,Placental Localization,3,700.0,2100.0
+Medicines,Medicine,Mupirocin Ointment (Mupiderm),8,250.0,2000.0
+Medicines,Medicine,Medroxyprogesterone (DB-10),25,80.0,2000.0
+Ultrasound,General Ultrasound,Whole Abdomen (to r-o acute appendicitis),1,1900.0,1900.0
+Services,Implant Removal,N/A,1,1800.0,1800.0
+Laboratory,Miscellaneous,Rubella IgG,1,1800.0,1800.0
+Laboratory,Clinical Chemistry,Blood Urea Nitrogen (BUN),6,300.0,1800.0
+Pediatric Medicines,Salinase Max,N/A,7,250.0,1750.0
+Laboratory,Clinical Chemistry,Potassium,5,350.0,1750.0
+Laboratory,Hematology,Platelet Count (PC),7,250.0,1750.0
+Laboratory,Medical Packages,Buntis Package A,1,1700.0,1700.0
+Ultrasound,General Ultrasound,Neck Ultrasound (Thyroid Submandibular and Lymph N,1,1700.0,1700.0
+Vaccines,PPD Test,N/A,3,500.0,1500.0
+Vaccines,BCG Vaccine,N/A,1,1500.0,1500.0
+Laboratory,Clinical Chemistry,SGPT,6,250.0,1500.0
+Medicines,Miscellaneous,Feminine Wash (Femcare),6,250.0,1500.0
+Ultrasound,General Ultrasound,Thyroid Ultrasound,1,1400.0,1400.0
+Laboratory,Clinical Chemistry,Sodium,4,350.0,1400.0
+Laboratory,Clinical Chemistry,SGOT,5,250.0,1250.0
+Laboratory,Clinical Microbiology,Gram Stain,2,600.0,1200.0
+Medicines,Family Planning,FAYE,2,600.0,1200.0
+Ultrasound,General Ultrasound,Soft Tissue Ultrasound (ex. Axillary),1,1200.0,1200.0
+Medicines,Medicine,Clindamycin (Vagilin),7,170.0,1190.0
+Ultrasound,General Ultrasound,Lower Abdomen (KUB plus Prostate OR Pelvic Structure,1,1150.0,1150.0
+Medicines,Medicine,Vitamin C + Zinc (Pearly-C),95,12.0,1140.0
+Laboratory,Clinical Chemistry,Magnesium,2,500.0,1000.0
+Services,Ear Piercing,N/A,1,1000.0,1000.0
+Others,Administration Fee,N/A,4,250.0,1000.0
+Ultrasound,General Ultrasound,Prostate Gland only,1,1000.0,1000.0
+Medicines,Medicine,Momalac,60,15.0,900.0
+Laboratory,Clinical Chemistry,Uric Acid,3,300.0,900.0
+Medicines,Medicine,Calcium Carbonate + D3 (Calcidin),70,12.0,840.0
+Pediatric Medicines,Nasatapp Drops,N/A,5,150.0,750.0
+Medicines,Miscellaneous,Pregnancy Test,6,120.0,720.0
+Medicines,Medicine,Folic Acid (Folitrene),40,15.0,600.0
+Medicines,Family Planning,ALTHEA,1,600.0,600.0
+Laboratory,Clinical Chemistry,Ionized Calcium,1,600.0,600.0
+Pediatric Medicines,Vivalyte,N/A,6,100.0,600.0
+Medicines,Medicine,Isoxsuprine Hcl (Duvatrene),21,25.0,525.0
+Medicines,Medicine,Clomifene Citrate (Ova-mit),5,100.0,500.0
+Laboratory,Miscellaneous,Hepa Titer,1,500.0,500.0
+Pediatric Medicines,Hydroaid,N/A,5,100.0,500.0
+Pediatric Medicines,Iron B and Complex (Ferlin),N/A,2,250.0,500.0
+Pediatric Medicines,Azithromycin (Azythrex),N/A,1,500.0,500.0
+Medicines,Medicine,Cefurox,14,35.0,490.0
+Medicines,Medicine,Cefuroxime Axetil (Uroxime),14,35.0,490.0
+Pediatric Medicines,Paracetamol Drops (Tempra),N/A,3,150.0,450.0
+Laboratory,Clinical Chemistry,LDH,1,350.0,350.0
+Laboratory,Clinical Chemistry,Chloride,1,350.0,350.0
+Laboratory,Miscellaneous,Phosphorus,1,350.0,350.0
+Pediatric Medicines,Cetirizine (Hydrochloride Allercon-25),N/A,2,150.0,300.0
+Pediatric Medicines,Provits 120 ml,N/A,1,250.0,250.0
+Laboratory,Clinical Microscopy,Fecalysis,1,250.0,250.0
+Medicines,Miscellaneous,Drysheet - Underpad,5,50.0,250.0
+Pediatric Medicines,Zinc Sulfate (E-Zinc) 15ml,N/A,2,120.0,240.0
+Medicines,Miscellaneous,Gauze 4x4,35,6.0,210.0
+Surgeon,Surgery Procedure (100),N/A,2,100.0,200.0
+Pediatric Medicines,Zinc Oxide and Calamine (Calmoseptine),N/A,4,50.0,200.0
+Services,Clinical Fee,N/A,1,150.0,150.0
+Medicines,Miscellaneous,"Micropore 1""",3,50.0,150.0
+Medicines,Miscellaneous,Wee bag,5,15.0,75.0
+Medicines,Medicine,Methyldopa,2,25.0,50.0
+Medicines,Miscellaneous,Urine Container,4,10.0,40.0

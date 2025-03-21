@@ -1,0 +1,151 @@
+﻿Category,Item,Option,Quantity,Price Per Unit,Total Revenue
+Services,OBGYN Consult,N/A,657,599.22,"393,686.00"
+Services,PEDIA Consult,N/A,611,599.28,"366,159.00"
+Ultrasound,OBGYN Consult,Transvaginal,207,"1,194.28","247,216.00"
+Ultrasound,OBGYN Consult,Congenital Anomaly Scan,46,"2,500.00","115,000.00"
+Ultrasound,OBGYN Consult,BPS + Biometry,62,"1,300.00","80,600.00"
+Vaccines,6 IN 1,N/A,18,"3,972.22","71,500.00"
+Vaccines,PCV,N/A,15,"4,000.00","60,000.00"
+Ultrasound,OBGYN Consult,Pelvic,45,"1,200.00","54,000.00"
+Laboratory,Packages,Buntis Package B,19,"2,500.00","47,500.00"
+Services,REI,N/A,52,800.00,"41,600.00"
+Others,NST,N/A,40,"1,000.00","40,000.00"
+Vaccines,ROTARIX,N/A,11,"3,000.00","33,000.00"
+Ultrasound,General Ultrasound,Breast - Chest Ultrasound (Bilateral),19,"1,700.00","32,300.00"
+Services,Endocrinologist Consult,N/A,33,795.67,"26,257.00"
+Medicines,Medicine,Calcium Carbonate + D3 (Calcidin),"2,029",12.00,"24,348.00"
+Vaccines,Flu Vaccine,N/A,12,"2,000.00","24,000.00"
+Medicines,Medicine,Gestron,366,65.00,"23,790.00"
+Laboratory,Packages,Thyroid Function Test,13,"1,800.00","23,400.00"
+Medicines,Medicine,Multivitamins (Mosvit Elite),"1,281",18.00,"23,058.00"
+Laboratory,Microbiology,Pap Smear,49,448.37,"21,970.00"
+Ultrasound,OBGYN Consult,Biometry,18,"1,200.00","21,600.00"
+Services,Surgery Consult,N/A,37,578.00,"21,386.00"
+Services,Urologist Consult,N/A,26,772.23,"20,078.00"
+Vaccines,MENINGO,N/A,5,"4,000.00","20,000.00"
+Vaccines,MMR,N/A,8,"2,500.00","20,000.00"
+Ultrasound,OBGYN Consult,5D Ultrasound,6,"3,000.00","18,000.00"
+Vaccines,TYPHOID,N/A,6,"3,000.00","18,000.00"
+Ultrasound,OBGYN Consult,TVS w Follicle Monitoring,10,"1,700.00","17,000.00"
+Medical Certificate,SWAB,N/A,14,"1,200.00","16,800.00"
+Vaccines,HEPA A,N/A,6,"2,500.00","15,000.00"
+Ultrasound,General Ultrasound,Whole Abdomen,9,"1,628.44","14,656.00"
+Ultrasound,General Ultrasound,Scrotal Ultrasound (with Doppler),8,"1,700.00","13,600.00"
+Vaccines,TT,N/A,27,500.00,"13,500.00"
+Services,Surgery Procedure (4500),N/A,3,"4,500.00","13,500.00"
+Vaccines,TD,N/A,15,860.00,"12,900.00"
+Ultrasound,OBGYN Consult,3D-4D Ultrasound,5,"2,500.00","12,500.00"
+Vaccines,VARICELLA,N/A,3,"3,500.00","10,500.00"
+Medicines,Medicine,Sodermix,4,"2,500.00","10,000.00"
+Medicines,Family Planning,DMPA (Depotrust),20,500.00,"10,000.00"
+Laboratory,Clinical Chemistry,HIV Screening,15,650.00,"9,750.00"
+Vaccines,GARDASIL 4,N/A,2,"4,500.00","9,000.00"
+Services,Surgery Procedure (3500),N/A,3,"3,000.00","9,000.00"
+Medical Certificate,Medical Certificate,N/A,45,200.00,"9,000.00"
+Medicines,Medicine,Medroxyprogesterone (DB-10),110,80.00,"8,800.00"
+Ultrasound,OBGYN Consult,Transrectal,7,"1,200.00","8,400.00"
+Medicines,Medicine,Folic Acid (Quatrofol),559,15.00,"8,385.00"
+Vaccines,JAP ENCEPH,N/A,2,"4,000.00","8,000.00"
+Services,Implant Insertion,N/A,2,"4,000.00","8,000.00"
+Laboratory,Hematology,Complete Blood Count (CBC),20,400.00,"8,000.00"
+Medicines,Family Planning,FAYE,13,600.00,"7,800.00"
+Medicines,Medicine,Ferrous Fumarate + B2+B12+ Folic Acid (Hematrene),612,12.00,"7,344.00"
+Laboratory,Clinical Chemistry,75 Gram OGTT,6,"1,200.00","7,200.00"
+Services,Ear Piercing,N/A,7,"1,000.00","7,000.00"
+Ultrasound,OBGYN Consult,BPS with Doppler,3,"2,300.00","6,900.00"
+Vaccines,MMRV,N/A,1,"6,500.00","6,500.00"
+Medicines,Medicine,Evening Primrose (Primdin),182,35.00,"6,370.00"
+Medicines,Medicine,Mupirocin Ointment (Mupiderm),25,250.00,"6,250.00"
+Ultrasound,General Ultrasound,Kidneys Ureters and Bladder (KUB),4,"1,400.00","5,600.00"
+Medicines,Medicine,Calcium (Calsure Boncare),461,12.00,"5,532.00"
+Services,Surgery Procedure (6500),N/A,1,"5,500.00","5,500.00"
+Medicines,Medicine,Ferrous + Folic Acid (Prenat),449,12.00,"5,388.00"
+Services,Surgery Procedure (2500),N/A,2,"2,500.00","5,000.00"
+Laboratory,Clinical Microscopy,Urinalysis,24,200.00,"4,800.00"
+Medicines,Medicine,Clindamycin (Vagilin),28,170.00,"4,760.00"
+Ultrasound,OBGYN Consult,BPS - DOPPLER VELOCIMETRY,2,"2,300.00","4,600.00"
+Services,Laser Circumcision,N/A,1,"4,500.00","4,500.00"
+Medicines,Medicine,Clindamycin Phosphate (Vagclr-M),18,250.00,"4,500.00"
+Medicines,Medicine,Vitamin C + Zinc (Pearly-C),353,12.00,"4,236.00"
+Vaccines,"PCV ""Pneumococcal""",N/A,1,"4,000.00","4,000.00"
+Vaccines,IPV,N/A,4,"1,000.00","4,000.00"
+Services,Cardio,N/A,5,771.40,"3,857.00"
+Ultrasound,General Ultrasound,Inguinoscrotal Ultrasound (with doppler),2,"1,900.00","3,800.00"
+Medicines,Medicine,Metindaz,28,130.00,"3,640.00"
+Laboratory,Packages,Buntis Package A,2,"1,700.00","3,400.00"
+Laboratory,Hematology,ABO RH Typing,11,300.00,"3,300.00"
+Laboratory,Clinical Chemistry,VDRL-RPR,7,450.00,"3,150.00"
+Laboratory,Clinical Chemistry,FBS,5,626.80,"3,134.00"
+Laboratory,Packages,Lipid Profile,3,"1,000.00","3,000.00"
+Medicines,Medicine,Dydrogesterone (Duphaston),34,85.00,"2,890.00"
+Ultrasound,General Ultrasound,Thyroid Ultrasound,2,"1,400.00","2,800.00"
+Laboratory,Hematology,Platelet Count (PC),11,250.00,"2,750.00"
+Laboratory,Clinical Chemistry,HBsAg Screening,6,450.00,"2,700.00"
+Medicines,Medicine,Multivitamins (Obtrene),213,12.00,"2,556.00"
+Medicines,Sodermix,N/A,1,"2,500.00","2,500.00"
+Laboratory,OTHERS,PSA  (Prostate),1,"2,418.00","2,418.00"
+Ultrasound,General Ultrasound,Soft Tissue Ultrasound (ex. Axillary),2,"1,200.00","2,400.00"
+Medicines,Medicine,Ferrous + FA (Feofer),196,12.00,"2,352.00"
+Services,IUD removal,N/A,1,"2,300.00","2,300.00"
+Laboratory,OTHERS,HbA1c,4,550.00,"2,200.00"
+Medicines,OTHERS,Pregnancy Test,18,120.00,"2,160.00"
+Ultrasound,OBGYN Consult,Cervical Length,3,700.00,"2,100.00"
+Ultrasound,OBGYN Consult,Doppler,2,"1,000.00","2,000.00"
+Ultrasound,OBGYN Consult,BPS + Biometry w- Cervical Length,1,"2,000.00","2,000.00"
+Medicines,Medicine,Methylergometrine (Ergojen),78,25.00,"1,950.00"
+Services,Implant Removal,N/A,1,"1,800.00","1,800.00"
+Medicines,Family Planning,ALTHEA,3,600.00,"1,800.00"
+Laboratory,OTHERS,Wet Smear,3,600.00,"1,800.00"
+Laboratory,Microbiology,Gram Stain,3,600.00,"1,800.00"
+Pediatric Medicines,Salinase Max,N/A,7,250.00,"1,750.00"
+Services,IM,N/A,2,800.00,"1,600.00"
+Ultrasound,General Ultrasound,Whole Abdomen (to r-o acute appendicitis),1,"1,561.00","1,561.00"
+Vaccines,BCG,N/A,1,"1,500.00","1,500.00"
+Medicines,Medicine,Cefuroxime Axetil (Aerox),42,35.00,"1,470.00"
+Laboratory,OTHERS,NS1 Antigen,1,"1,400.00","1,400.00"
+Medicines,OTHERS,Feminine Wash (Femcare),6,200.00,"1,200.00"
+Medicines,Medicine,Evening Primrose (PRIMAVIX),33,35.00,"1,155.00"
+Ultrasound,General Ultrasound,Lower Abdomen (KUB plus Prostate OR Pelvic Structure),1,"1,150.00","1,150.00"
+Laboratory,Clinical Chemistry,HbA1c,2,550.00,"1,100.00"
+Pediatric Medicines,Cetirizine Drops Allerkid Drops,N/A,6,180.00,"1,080.00"
+Medicines,Medicine,Isoxsuprine Hcl (Duvaprine),42,25.00,"1,050.00"
+Pediatric Medicines,Azithromycin (Azythrex),N/A,2,500.00,"1,000.00"
+Ultrasound,General Ultrasound,Prostate Gland only,1,"1,000.00","1,000.00"
+Ultrasound,OBGYN Consult,Follicle Monitoring,2,500.00,"1,000.00"
+Pediatric Medicines,Vivalyte,N/A,10,100.00,"1,000.00"
+Laboratory,OTHERS,Dengue Duo,1,920.00,920.00
+Medicines,Medicine,Momalac,60,15.00,900.00
+Pediatric Medicines,Cetirizine Syrup Allerkid Syrup,N/A,3,300.00,900.00
+Medicines,OTHERS,Drysheet - Underpad,17,50.00,850.00
+Laboratory,Microbiology,Urine C-S,1,800.00,800.00
+Medicines,Medicine,Folic Acid (Folitrene),50,15.00,750.00
+Laboratory,Clinical Chemistry,SGPT,3,250.00,750.00
+Laboratory,Clinical Chemistry,TSH,1,650.00,650.00
+Pediatric Medicines,Nutri 10 plus drops,N/A,3,200.00,600.00
+Laboratory,OTHERS,KOH,1,600.00,600.00
+Pediatric Medicines,Nasatapp Syrup,N/A,4,150.00,600.00
+Pediatric Medicines,Nasatapp Drops,N/A,4,150.00,600.00
+Laboratory,OTHERS,Serum Preg Test,2,300.00,600.00
+Laboratory,Clinical Chemistry,Uric Acid,2,300.00,600.00
+Laboratory,Clinical Chemistry,Creatinine,2,300.00,600.00
+Medicines,Medicine,Trufit,21,25.00,525.00
+Medicines,Medicine,Isoxsuprene Hcl (Duvatrene),21,25.00,525.00
+Laboratory,Clinical Chemistry,SGOT,2,250.00,500.00
+Pediatric Medicines,Zinc Oxide +Calamine (Calmoseptine),N/A,10,50.00,500.00
+Services,Clinic Fee,N/A,3,150.00,450.00
+Pediatric Medicines,Salbutamol,N/A,15,30.00,450.00
+Laboratory,Clinical Chemistry,T4,1,450.00,450.00
+Laboratory,Clinical Chemistry,T3,1,450.00,450.00
+Medicines,Medicine,Mommalac,28,15.00,420.00
+Pediatric Medicines,Ceelin Syrup 120ml,N/A,2,200.00,400.00
+Pediatric Medicines,Ceelin Drops 30ml,N/A,2,170.00,340.00
+Pediatric Medicines,Paracetamol Drops Biogesic Drops,N/A,3,100.00,300.00
+Laboratory,Clinical Chemistry,Blood Urea Nitrogen (BUN),1,300.00,300.00
+Laboratory,Clinical Microscopy,Fecalysis,1,250.00,250.00
+Pediatric Medicines,Appebon,N/A,1,200.00,200.00
+Medicines,OTHERS,OGTT Juice,1,200.00,200.00
+Pediatric Medicines,Vitamin C and Zinc Ceelin Plus Syrup,N/A,1,180.00,180.00
+Pediatric Medicines,Paracetamol Drops (Tempra),N/A,1,150.00,150.00
+Pediatric Medicines,Zinc Sulfate (E-Zinc) 15ml,N/A,1,120.00,120.00
+Medicines,Medicine,Multivitamins (Medcare OB),4,12.00,48.00
+Pediatric Medicines,Zinc Oxide + Calamine (Saphclamine),N/A,1,40.00,40.00
